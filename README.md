@@ -7,9 +7,7 @@ This project is a simple sample of integrating the OPA policy engine with a simp
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Integration Tests](#usage)
 
 ## Installation
 
